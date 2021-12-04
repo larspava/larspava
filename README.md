@@ -1,4 +1,6 @@
-### Hello world 👾
+## Hello world 👾
+• I'm currently learning JavaScript!
+
 
 <div align="center">
   <a href="https://github.com/larspava">
