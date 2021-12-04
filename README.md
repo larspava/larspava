@@ -1,5 +1,5 @@
 ## Hello world 👾
-• I'm currently learning JavaScript!
+• 🌱 I'm currently learning JavaScript!
 
 
 <div align="center">
