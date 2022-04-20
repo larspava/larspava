@@ -1,7 +1,5 @@
 ## Hello world 👾
-My name is Willy Oliveira. I'm 23 old student that like to study programming languages like Python, C++ and do projects in Front-End. <br>
-• 🌱 I'm currently learning JavaScript!
-
+My name is Willy Oliveira. I'm 23 old student and I'm currently studying to become a Software Developer. <br>
 
 <div align="center">
   <a href="https://github.com/larspava">
