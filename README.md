@@ -3,8 +3,9 @@ My name is Willy Oliveira. I'm 24 old student and I'm currently studying to beco
 
 <div align="center">
   <a href="https://github.com/larspava">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larspava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larspava&layout=compact&langs_count=7&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=larspava&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larspava&layout=compact" />
+</picture>
 </div>
   
 <div style="display: inline_block transform: scale(1.2)"><br>
