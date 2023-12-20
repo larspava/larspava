@@ -1,5 +1,4 @@
 ## Hello world 👾
-My name is Willy Oliveira. I'm 24 old student and I'm currently studying to become a Software Developer. <br>
 
 <div align="center">
   <a href="https://github.com/larspava">
